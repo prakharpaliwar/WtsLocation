@@ -1,0 +1,1 @@
+select mnemonic from logical_domain where logical_domain_id = ?

@@ -1,0 +1,1 @@
+select column_name from all_tab_columns where table_name = upper('locations')
